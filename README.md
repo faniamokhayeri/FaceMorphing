@@ -2,8 +2,8 @@
 This repository provides a Matlab implementation of Morphing tewo faces.
 
 <p align="center">
-  <img src="media/Morphing-ChockPoint-1-2.gif" width="200">
-	<img src="media/Morphing-ChockPoint-1-3.gif" width="200">
+  <img src="media/1.gif" width="200">
+  <img src="media/2.gif" width="200">
 </p>
 
 ## Data
@@ -12,6 +12,6 @@ This repository provides a Matlab implementation of Morphing tewo faces.
 - **[COX-S2V](http://vipl.ict.ac.cn/view_database.php?id=3)** 
 
 
-## Prerequisite:
+## Prerequisite
 
 
