@@ -9,11 +9,6 @@ This repository provides a Matlab implementation of face synthesizing using Morp
 ## Data
 
 - **[ChokePoint](http://arma.sourceforge.net/chokepoint/)** 
-- **[COX-S2V](http://vipl.ict.ac.cn/view_database.php?id=3)** 
-
-
-## Prerequisite
-
 
 
 ## Citation
