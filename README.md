@@ -4,7 +4,7 @@
 This repository provides a Matlab implementation of face synthesizing using Morphing face images.
 
 <p align="center">
-  <img src="media/1.gif" width="200">
+  <img src="Media/1.gif" width="200">
 </p>
 
 ## Data
