@@ -16,7 +16,7 @@ This repository provides a Matlab implementation of face synthesizing using Morp
 
 
 
-## Citation:
+## Citation
 
 If you find this work useful, please cite our paper with the following bibtex:
 
