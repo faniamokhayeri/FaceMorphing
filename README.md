@@ -1,3 +1,6 @@
+**[Synthetic face generation under various operational conditions in video surveillance](https://ieeexplore.ieee.org/document/7351567/)**
+===========
+
 # FaceMorphing
 This repository provides a Matlab implementation of face synthesizing using Morphing face images.
 
