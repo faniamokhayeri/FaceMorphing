@@ -6,7 +6,7 @@ This repository provides a Matlab implementation of face synthesizing using Morp
 <p align="center">
   <img src="Media/1.png" height="200">
   <img src="Media/2.png" height="200">
-  <img src="Media/1.gif" height="200">
+  <img src="Media/m.gif" height="200">
 </p>
 
 ## Data
